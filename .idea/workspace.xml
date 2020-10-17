@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39918a1b-8d33-4886-94c3-21c0334a41a9" name="Default Changelist" comment="" />
+    <list default="true" id="39918a1b-8d33-4886-94c3-21c0334a41a9" name="Default Changelist" comment="config phpstorm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -165,11 +168,35 @@
       <workItem from="1602971874674" duration="1395000" />
       <workItem from="1602973334675" duration="12000" />
       <workItem from="1602973411983" duration="1671000" />
+      <workItem from="1602976371726" duration="321000" />
     </task>
+    <task id="LOCAL-00001" summary="config phpstorm">
+      <created>1602976653049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602976653049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config phpstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="config phpstorm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="309" key="#Composer" timestamp="1602911672719">
